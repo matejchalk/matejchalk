@@ -66,3 +66,8 @@ These are some technologies I use regularly, or have used extensively on past pr
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+#### 📈 Contributions on GitHub
+
+![GitHub stats](https://github-readme-stats-matejchalk.vercel.app/api?username=matejchalk&show=reviews,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=transparent)
+![Top languages](https://github-readme-stats-matejchalk.vercel.app/api/top-langs/?username=matejchalk&size_weight=0.5&count_weight=0.5&langs_count=4&theme=transparent)
