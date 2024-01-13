@@ -71,3 +71,5 @@ These are some technologies I use regularly, or have used extensively on past pr
 
 ![GitHub stats](https://github-readme-stats-matejchalk.vercel.app/api?username=matejchalk&show=reviews,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=transparent)
 ![Top languages](https://github-readme-stats-matejchalk.vercel.app/api/top-langs/?username=matejchalk&size_weight=0.5&count_weight=0.5&langs_count=4&theme=transparent)
+
+![GitHub profile trophy](https://github-profile-trophy.vercel.app/?username=matejchalk&row=1&column=5&margin-w=4)
