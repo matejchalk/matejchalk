@@ -17,8 +17,8 @@ I'm passionate about code quality (type-safety, FP, TDD) and knowledge sharing.
 
 #### ✍️ Articles
 
-- [_How a monorepo can save on development costs_](https://flowup.cz/en/article/how-a-monorepo-structure-can-save-on-development-costs) - 2020
-- [_Dependency injection in Angular libraries_](https://flowup.cz/en/article/dependency-injection-in-angular-libraries) - 2020
+- [_How a monorepo can save on development costs_](https://flowup.cz/en/article/how-a-monorepo-structure-can-save-on-development-costs) - FlowUp blog, 2020
+- [_Dependency injection in Angular libraries_](https://flowup.cz/en/article/dependency-injection-in-angular-libraries) - FlowUp blog, 2020
 
 #### 🛠️ Tech stack
 
