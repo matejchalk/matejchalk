@@ -4,12 +4,13 @@ I'm a full-stack engineer and tech lead at [FlowUp](https://flowup.cz/).
 
 #### 👨🏽‍💻 What I do
 
-I lead agile engineering teams in building web apps for our clients. I'm currently working on [Code PushUp](https://github.com/code-pushup/cli?tab=readme-ov-file#code-pushup-cli).
+I lead agile engineering teams in building web apps for our clients. I'm currently working on [Code PushUp](https://github.com/code-pushup/cli#readme).
 
 I'm passionate about code quality (type-safety, FP, TDD) and knowledge sharing.
 
 #### 💬 Talks
 
+- [_Managing tech debt in Angular_](https://www.youtube.com/watch?v=16vzSoeem5k&t=8472s) 📹 - Angular Vienna, 2024
 - [_Full-stack pagination strategies_](https://docs.google.com/presentation/d/1TVvLTbkFy4xiFZeUNqH2rbVdJ3KMpdAZhX-yr6lWAPw/edit?usp=sharing) - ngBeer Brno, 2022
 - [_Null safety in TypeScript and Angular_](https://www.youtube.com/watch?v=Fy7t4lGBscs) 📹 - Angular Vienna, 2022
 - [_How TDD helps you build modular Angular apps (Jest, Nx, Storybook)_](https://www.youtube.com/watch?v=diYL_mgU_jI&t=3659s) 📹 - ngBeer Brno, 2021
